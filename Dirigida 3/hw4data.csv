@@ -1,0 +1,145 @@
+Call_Type,Call_Type_Group,Unit_Type,Incident_Number
+Smoke Investigation (Outside),Alarm,CHIEF,526
+Electrical Hazard,Alarm,TRUCK,304
+Aircraft Emergency,Alarm,PRIVATE,3
+Odor (Strange / Unknown),Alarm,PRIVATE,50
+Outside Fire,Alarm,CHIEF,574
+Vehicle Fire,Alarm,MEDIC,1
+Assist Police,Alarm,TRUCK,151
+Assist Police,Alarm,PRIVATE,13
+Odor (Strange / Unknown),Alarm,TRUCK,701
+Aircraft Emergency,Alarm,TRUCK,8
+Electrical Hazard,Alarm,PRIVATE,6
+Gas Leak (Natural and LP Gases),Alarm,CHIEF,2833
+Medical Incident,Alarm,RESCUE CAPTAIN,32
+Watercraft in Distress,Alarm,TRUCK,2
+Vehicle Fire,Alarm,ENGINE,4
+Gas Leak (Natural and LP Gases),Alarm,ENGINE,4893
+Alarms,Alarm,TRUCK,76642
+Gas Leak (Natural and LP Gases),Alarm,SUPPORT,13
+Citizen Assist / Service Call,Alarm,PRIVATE,745
+Smoke Investigation (Outside),Alarm,MEDIC,26
+Citizen Assist / Service Call,Alarm,TRUCK,11320
+Alarms,Alarm,PRIVATE,178
+Outside Fire,Alarm,MEDIC,5
+Vehicle Fire,Alarm,CHIEF,3
+Smoke Investigation (Outside),Alarm,ENGINE,3308
+Smoke Investigation (Outside),Alarm,SUPPORT,46
+Outside Fire,Alarm,ENGINE,1297
+Outside Fire,Alarm,SUPPORT,541
+Medical Incident,Alarm,RESCUE SQUAD,1
+Gas Leak (Natural and LP Gases),Alarm,MEDIC,100
+Watercraft in Distress,Alarm,RESCUE SQUAD,1
+Other,Alarm,CHIEF,2665
+Elevator / Escalator Rescue,Alarm,CHIEF,40
+HazMat,Alarm,CHIEF,237
+Odor (Strange / Unknown),Alarm,RESCUE SQUAD,4
+Aircraft Emergency,Alarm,RESCUE SQUAD,6
+Odor (Strange / Unknown),Alarm,INVESTIGATION,3
+Structure Fire,Alarm,CHIEF,36027
+Alarms,Alarm,RESCUE CAPTAIN,91
+Assist Police,Alarm,INVESTIGATION,1
+Electrical Hazard,Alarm,INVESTIGATION,1
+Fuel Spill,Alarm,CHIEF,291
+Electrical Hazard,Alarm,RESCUE SQUAD,14
+Citizen Assist / Service Call,Alarm,RESCUE CAPTAIN,342
+Assist Police,Alarm,RESCUE SQUAD,7
+HazMat,Alarm,SUPPORT,53
+Medical Incident,Alarm,TRUCK,41
+HazMat,Alarm,ENGINE,274
+Structure Fire,Alarm,SUPPORT,292
+Structure Fire,Alarm,ENGINE,68928
+Other,Alarm,MEDIC,1111
+Elevator / Escalator Rescue,Alarm,MEDIC,244
+Fuel Spill,Alarm,ENGINE,1362
+Other,Alarm,AIRPORT,3058
+Elevator / Escalator Rescue,Alarm,AIRPORT,1
+Fuel Spill,Alarm,SUPPORT,14
+Oil Spill,Alarm,TRUCK,1
+Medical Incident,Alarm,PRIVATE,43
+Assist Police,Alarm,RESCUE CAPTAIN,12
+Fuel Spill,Alarm,MEDIC,35
+Electrical Hazard,Alarm,RESCUE CAPTAIN,4
+Citizen Assist / Service Call,Alarm,RESCUE SQUAD,81
+Citizen Assist / Service Call,Alarm,INVESTIGATION,7
+HazMat,Alarm,MEDIC,44
+Alarms,Alarm,RESCUE SQUAD,60
+Aircraft Emergency,Alarm,RESCUE CAPTAIN,4
+Elevator / Escalator Rescue,Alarm,ENGINE,229
+Odor (Strange / Unknown),Alarm,RESCUE CAPTAIN,30
+Other,Alarm,ENGINE,11445
+Structure Fire,Alarm,MEDIC,10861
+Elevator / Escalator Rescue,Alarm,SUPPORT,3
+Alarms,Alarm,INVESTIGATION,77
+Other,Alarm,SUPPORT,332
+Alarms,Alarm,AIRPORT,1
+Outside Fire,Alarm,TRUCK,570
+Assist Police,Alarm,CHIEF,24
+Electrical Hazard,Alarm,CHIEF,244
+Fuel Spill,Alarm,INVESTIGATION,3
+Citizen Assist / Service Call,Alarm,MEDIC,2093
+Fuel Spill,Alarm,RESCUE SQUAD,2
+Smoke Investigation (Outside),Alarm,TRUCK,482
+Smoke Investigation (Outside),Alarm,PRIVATE,7
+Structure Fire,Alarm,RESCUE SQUAD,10190
+Structure Fire,Alarm,INVESTIGATION,358
+Aircraft Emergency,Alarm,CHIEF,12
+Odor (Strange / Unknown),Alarm,CHIEF,750
+Alarms,Alarm,MEDIC,545
+HazMat,Alarm,RESCUE SQUAD,19
+Elevator / Escalator Rescue,Alarm,RESCUE SQUAD,25
+Other,Alarm,RESCUE SQUAD,274
+Alarms,Alarm,ENGINE,79532
+Gas Leak (Natural and LP Gases),Alarm,TRUCK,2159
+Other,Alarm,INVESTIGATION,96
+Alarms,Alarm,SUPPORT,307
+Gas Leak (Natural and LP Gases),Alarm,PRIVATE,39
+Citizen Assist / Service Call,Alarm,SUPPORT,50
+Citizen Assist / Service Call,Alarm,ENGINE,12691
+Watercraft in Distress,Alarm,CHIEF,5
+HazMat,Alarm,RESCUE CAPTAIN,28
+Structure Fire,Alarm,RESCUE CAPTAIN,244
+Aircraft Emergency,Alarm,MEDIC,8
+Odor (Strange / Unknown),Alarm,MEDIC,114
+Alarms,Alarm,CHIEF,75611
+Assist Police,Alarm,MEDIC,47
+Vehicle Fire,Alarm,TRUCK,3
+Fuel Spill,Alarm,RESCUE CAPTAIN,5
+Electrical Hazard,Alarm,MEDIC,30
+Watercraft in Distress,Alarm,ENGINE,4
+Citizen Assist / Service Call,Alarm,CHIEF,782
+Watercraft in Distress,Alarm,SUPPORT,1
+Assist Police,Alarm,SUPPORT,11
+Electrical Hazard,Alarm,ENGINE,6451
+Assist Police,Alarm,ENGINE,151
+Electrical Hazard,Alarm,SUPPORT,10
+Watercraft in Distress,Alarm,MEDIC,1
+Aircraft Emergency,Alarm,SUPPORT,6
+Odor (Strange / Unknown),Alarm,SUPPORT,9
+Odor (Strange / Unknown),Alarm,ENGINE,1298
+Elevator / Escalator Rescue,Alarm,RESCUE CAPTAIN,29
+Aircraft Emergency,Alarm,ENGINE,16
+Other,Alarm,RESCUE CAPTAIN,268
+Other,Alarm,PRIVATE,336
+Elevator / Escalator Rescue,Alarm,PRIVATE,101
+Elevator / Escalator Rescue,Alarm,TRUCK,5333
+Other,Alarm,TRUCK,6890
+Gas Leak (Natural and LP Gases),Alarm,INVESTIGATION,3
+Gas Leak (Natural and LP Gases),Alarm,RESCUE SQUAD,7
+Medical Incident,Alarm,MEDIC,47
+Structure Fire,Alarm,TRUCK,56137
+Fuel Spill,Alarm,PRIVATE,16
+Medical Incident,Alarm,ENGINE,970
+HazMat,Alarm,TRUCK,144
+HazMat,Alarm,PRIVATE,12
+Oil Spill,Alarm,ENGINE,2
+Smoke Investigation (Outside),Alarm,INVESTIGATION,7
+Fuel Spill,Alarm,TRUCK,272
+Structure Fire,Alarm,PRIVATE,670
+Smoke Investigation (Outside),Alarm,RESCUE SQUAD,25
+Outside Fire,Alarm,INVESTIGATION,3
+Gas Leak (Natural and LP Gases),Alarm,RESCUE CAPTAIN,39
+Medical Incident,Alarm,CHIEF,3
+Vehicle Fire,Alarm,RESCUE SQUAD,1
+Smoke Investigation (Outside),Alarm,RESCUE CAPTAIN,1
+Vehicle Fire,Alarm,INVESTIGATION,1
